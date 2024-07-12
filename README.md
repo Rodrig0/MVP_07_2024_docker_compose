@@ -148,4 +148,4 @@ Busca livros na API do Google Books com base na query fornecida.
 
 ## Conclusão ##
 
-Este projeto demonstra a integração de diferentes tecnologias e serviços para criar uma aplicação completa e dockerizada. Espero que este guia tenha sido útil e que você possa aproveitar ao máximo esta aplicação. Se tiver dúvidas, sinta-se à vontade para entrar em contato.
+Este projeto demonstra a integração de diferentes tecnologias e serviços para criar uma aplicação completa e dockerizada.
