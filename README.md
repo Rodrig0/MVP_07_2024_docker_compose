@@ -72,7 +72,9 @@ CMD ["flask", "run", "--host=0.0.0.0", "--port=5004"]
 O arquivo docker-compose.yml orquestra os containers Docker para o frontend, backend e banco de dados. Ele deve estar localizado na raiz do projeto:
 
 project-root/docker-compose.yml
+
 project-root/client-main
+
 project-root/server-main
 
 docker-compose.yml
